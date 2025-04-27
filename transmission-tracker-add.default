@@ -1,0 +1,5 @@
+# The default settings for transmission-tracker-add
+
+AUTH=user:password
+HOST=localhost
+TRACKER_FILE=/usr/share/trackerslist/trackers/trackers_all.txt
